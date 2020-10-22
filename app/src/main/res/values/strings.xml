@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Location</string>
+    <string name="action_settings">Settings</string>
+    <string name="acc">accuracy :</string>
+    <string name="lat">latitude :</string>
+    <string name="lng">longitude :</string>
+    <string name="alt">altitude :</string>
+    <string name="sdp">speed :</string>
+    <string name="addr">address :\n</string>
+    <string name="msg">Для начала включите доступ к определению местоположения!</string>
+</resources>
